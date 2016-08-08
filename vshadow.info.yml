@@ -1,0 +1,5 @@
+name: 'VShadow Image Gallery Overlay'
+type: module
+description: 'A light-weight, customizable shadowbox plugin.'
+package: Media
+core: 8.x
